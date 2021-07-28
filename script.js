@@ -246,7 +246,7 @@ window.onload = function() //网页加载初始化
 function launchOneDrivePicker(action = "query"){
 	outinfo.innerHTML = "正在等待API返回数据";
 	var odOptions = {
-		clientId: "d7b41a52-5bb3-43df-a20c-6259cb6a1886",
+		clientId: "d838b217-d502-4e35-a020-fcab49f2a462",
 		action: action, //share | download | query
 		multiSelect: true,
 		openInNewWindow: true,
